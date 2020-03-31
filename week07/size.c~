@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+
+
+int main(void) {
+
+    printf("the size of an int is %lu\n", sizeof(int));
+    return 0;
+}
